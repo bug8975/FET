@@ -1,0 +1,199 @@
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Monitor_HCCS.exe.config
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg01.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg02.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg03.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg04.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg05.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg06.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Config\Skin.config
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Config\Skin\NoFlower.config
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Config\Skin\BlueSea.config
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Config\Skin\SunsetRed.config
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Config\Skin\KissOfAngel.config
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Sounds\cityscape.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Sounds\festival.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Sounds\garden.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Sounds\heritage.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Sounds\landscape.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Sounds\normal.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Sounds\savanna.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Sounds\sonata.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Config\Skin.ini
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Monitor_HCCS.exe
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Monitor_HCCS.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\BenNHForm.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\EntityFramework.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\EntityFramework.SqlServer.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\log4net.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\SimpleUpdater.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\System.Data.SQLite.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\System.Data.SQLite.EF6.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\System.Data.SQLite.Linq.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\ToastNotifications.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\TX.Framework.WindowUI.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\WifiTool.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Windows.winmd
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\TX.Framework.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\BenNHForm.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\ToastNotifications.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\WifiTool.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\EntityFramework.xml
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\EntityFramework.SqlServer.xml
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\log4net.xml
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\SimpleUpdater.xml
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\System.Data.SQLite.xml
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\en\SimpleUpdater.resources.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.csprojResolveAssemblyReference.cache
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.Properties.Resources.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Base.BaseForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.DevBaseForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.BLE.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Dialog.Delete.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Dialog.Setup.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.USB.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.DataForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.HomeForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.PictureForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.csproj.GenerateResource.Cache
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.exe.licenses
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.exe
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\obj\Debug\Monitor_HCCS.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS\Monitor_HCCS\bin\Debug\Properties\AssemblyInfo.cs
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg01.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg02.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg03.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg04.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg05.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg06.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Config\Skin.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Config\Skin\NoFlower.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Config\Skin\BlueSea.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Config\Skin\SunsetRed.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Config\Skin\KissOfAngel.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Properties\AssemblyInfo.cs
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Config\Skin.ini
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Sounds\cityscape.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Sounds\festival.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Sounds\garden.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Sounds\heritage.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Sounds\landscape.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Sounds\normal.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Sounds\savanna.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Sounds\sonata.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Monitor_HCCS.exe.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Monitor_HCCS.exe
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Monitor_HCCS.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\BenNHForm.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\EntityFramework.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\EntityFramework.SqlServer.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\log4net.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\SimpleUpdater.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\System.Data.SQLite.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\System.Data.SQLite.EF6.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\System.Data.SQLite.Linq.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\ToastNotifications.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\TX.Framework.WindowUI.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\WifiTool.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Windows.winmd
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\TX.Framework.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\BenNHForm.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\ToastNotifications.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\WifiTool.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\EntityFramework.xml
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\EntityFramework.SqlServer.xml
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\log4net.xml
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\SimpleUpdater.xml
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\System.Data.SQLite.xml
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\bin\Debug\en\SimpleUpdater.resources.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.csprojResolveAssemblyReference.cache
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.csproj.ResolveComReference.cache
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.Properties.Resources.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Base.BaseForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.DevBaseForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Core.SplashScreen2.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Core.WaitForm1.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.BLE.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Dialog.Delete.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Dialog.SetupForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Dialog.SplashScreen1.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.USB.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.DataForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.HomeForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.MainForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.PictureForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.csproj.GenerateResource.Cache
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.exe.licenses
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.exe
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\Monitor_HCCS\obj\Debug\Monitor_HCCS.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Monitor_HCCS.exe.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.csproj.ResolveComReference.cache
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg01.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg02.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg03.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg04.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg05.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Config\Skin\bg\bg06.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Config\Skin.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Config\Skin\NoFlower.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Config\Skin\BlueSea.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Config\Skin\SunsetRed.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Config\Skin\KissOfAngel.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Properties\AssemblyInfo.cs
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Properties\app.manifest
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Config\Skin.ini
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Sounds\cityscape.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Sounds\festival.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Sounds\garden.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Sounds\heritage.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Sounds\landscape.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Sounds\normal.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Sounds\savanna.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Sounds\sonata.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Monitor_HCCS.exe
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Monitor_HCCS.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\BenNHForm.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\EntityFramework.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\EntityFramework.SqlServer.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\log4net.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\SimpleUpdater.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\System.Data.SQLite.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\System.Data.SQLite.EF6.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\System.Data.SQLite.Linq.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\ToastNotifications.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\TX.Framework.WindowUI.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\WifiTool.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Windows.winmd
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\TX.Framework.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\BenNHForm.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\ToastNotifications.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\WifiTool.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\EntityFramework.xml
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\EntityFramework.SqlServer.xml
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\log4net.xml
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\SimpleUpdater.xml
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\System.Data.SQLite.xml
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\bin\Debug\en\SimpleUpdater.resources.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.csprojResolveAssemblyReference.cache
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.Properties.Resources.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Base.BaseForm.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.DevBaseForm.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Core.WaitForm1.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.BLE.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Dialog.Delete.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Dialog.SetupForm.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.Dialog.SplashScreen1.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.USB.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.DataForm.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.HomeForm.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.MainForm.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.View.PictureForm.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.csproj.GenerateResource.Cache
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.exe.licenses
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.exe
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\Monitor_HCCS\obj\Debug\Monitor_HCCS.pdb

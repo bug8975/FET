@@ -1,0 +1,71 @@
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\bin\Debug\Sounds\cityscape.wav
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\bin\Debug\Sounds\festival.wav
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\bin\Debug\Sounds\garden.wav
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\bin\Debug\Sounds\heritage.wav
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\bin\Debug\Sounds\landscape.wav
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\bin\Debug\Sounds\normal.wav
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\bin\Debug\Sounds\savanna.wav
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\bin\Debug\Sounds\sonata.wav
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\bin\Debug\ToastNotifications.dll.config
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\bin\Debug\ToastNotifications.dll
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\bin\Debug\ToastNotifications.pdb
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\obj\Debug\ToastNotifications.Notification.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\obj\Debug\ToastNotifications.NotificationLauncher.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\obj\Debug\ToastNotifications.Properties.Resources.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\obj\Debug\ToastNotifications.csproj.GenerateResource.Cache
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\obj\Debug\ToastNotifications.dll
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\obj\Debug\ToastNotifications.pdb
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\windows-toast-notifications\ToastNotifications\obj\Debug\ToastNotifications.csprojResolveAssemblyReference.cache
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\bin\Debug\Sounds\cityscape.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\bin\Debug\Sounds\festival.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\bin\Debug\Sounds\garden.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\bin\Debug\Sounds\heritage.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\bin\Debug\Sounds\landscape.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\bin\Debug\Sounds\normal.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\bin\Debug\Sounds\savanna.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\bin\Debug\Sounds\sonata.wav
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\bin\Debug\ToastNotifications.dll.config
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\bin\Debug\ToastNotifications.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\bin\Debug\ToastNotifications.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\obj\Debug\ToastNotifications.Notification.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\obj\Debug\ToastNotifications.NotificationLauncher.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\obj\Debug\ToastNotifications.Properties.Resources.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\obj\Debug\ToastNotifications.csproj.GenerateResource.Cache
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\obj\Debug\ToastNotifications.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\ToastNotifications\obj\Debug\ToastNotifications.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\bin\Debug\Sounds\cityscape.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\bin\Debug\Sounds\festival.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\bin\Debug\Sounds\garden.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\bin\Debug\Sounds\heritage.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\bin\Debug\Sounds\landscape.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\bin\Debug\Sounds\normal.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\bin\Debug\Sounds\savanna.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\bin\Debug\Sounds\sonata.wav
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\bin\Debug\ToastNotifications.dll.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\bin\Debug\ToastNotifications.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\bin\Debug\ToastNotifications.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\obj\Debug\ToastNotifications.csprojResolveAssemblyReference.cache
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\obj\Debug\ToastNotifications.Notification.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\obj\Debug\ToastNotifications.NotificationLauncher.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\obj\Debug\ToastNotifications.Properties.Resources.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\obj\Debug\ToastNotifications.csproj.GenerateResource.Cache
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\obj\Debug\ToastNotifications.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\ToastNotifications\obj\Debug\ToastNotifications.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\bin\Debug\Sounds\cityscape.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\bin\Debug\Sounds\festival.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\bin\Debug\Sounds\garden.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\bin\Debug\Sounds\heritage.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\bin\Debug\Sounds\landscape.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\bin\Debug\Sounds\normal.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\bin\Debug\Sounds\savanna.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\bin\Debug\Sounds\sonata.wav
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\bin\Debug\ToastNotifications.dll.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\bin\Debug\ToastNotifications.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\bin\Debug\ToastNotifications.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\obj\Debug\ToastNotifications.Notification.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\obj\Debug\ToastNotifications.NotificationLauncher.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\obj\Debug\ToastNotifications.Properties.Resources.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\obj\Debug\ToastNotifications.csproj.GenerateResource.Cache
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\obj\Debug\ToastNotifications.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\obj\Debug\ToastNotifications.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\ToastNotifications\obj\Debug\ToastNotifications.csprojResolveAssemblyReference.cache

@@ -1,0 +1,144 @@
+E:\LearningPrj\BenNHForm\BenNHForm\obj\Debug\BenNHControl.csprojResolveAssemblyReference.cache
+E:\LearningPrj\BenNHForm\BenNHForm\obj\Debug\BenNHControl.MessageBoxEX.resources
+E:\LearningPrj\BenNHForm\BenNHForm\obj\Debug\BenNHControl.csproj.GenerateResource.Cache
+E:\LearningPrj\BenNHForm\BenNHForm\obj\Debug\BenNHForm.dll
+E:\LearningPrj\BenNHForm\BenNHForm\obj\Debug\BenNHForm.pdb
+E:\LearningPrj\BenNHForm\BenNHForm\bin\Debug\BenNHForm.dll
+E:\LearningPrj\BenNHForm\BenNHForm\bin\Debug\BenNHForm.pdb
+E:\LearningPrj\BenNHControl\BenNHControl\bin\Debug\BenNHForm.dll
+E:\LearningPrj\BenNHControl\BenNHControl\bin\Debug\BenNHForm.pdb
+E:\LearningPrj\BenNHControl\BenNHControl\obj\Debug\BenNHControl.MessageBoxEX.resources
+E:\LearningPrj\BenNHControl\BenNHControl\obj\Debug\BenNHControl.csproj.GenerateResource.Cache
+E:\LearningPrj\BenNHControl\BenNHControl\obj\Debug\BenNHForm.dll
+E:\LearningPrj\BenNHControl\BenNHControl\obj\Debug\BenNHForm.pdb
+E:\LearningPrj\BenNHControl\BenNHControl\obj\Debug\BenNHControl.ButtonEX.resources
+E:\LearningPrj\BenNHControl\BenNHControl\obj\Debug\BenNHControl.FormEX.resources
+E:\LearningPrj\BenNHControl\BenNHControl\obj\Debug\BenNHControl.Properties.Resources.resources
+E:\LearningPrj\BenNHControl\BenNHControl\obj\Debug\BenNHControl.csprojResolveAssemblyReference.cache
+E:\LearningPrj\GUIDesign\BenNHControl\bin\Debug\BenNHForm.dll
+E:\LearningPrj\GUIDesign\BenNHControl\bin\Debug\BenNHForm.pdb
+E:\LearningPrj\GUIDesign\BenNHControl\obj\Debug\BenNHControl.ButtonEX.resources
+E:\LearningPrj\GUIDesign\BenNHControl\obj\Debug\BenNHControl.FormEX.resources
+E:\LearningPrj\GUIDesign\BenNHControl\obj\Debug\BenNHControl.MessageBoxEX.resources
+E:\LearningPrj\GUIDesign\BenNHControl\obj\Debug\BenNHControl.Properties.Resources.resources
+E:\LearningPrj\GUIDesign\BenNHControl\obj\Debug\BenNHControl.csproj.GenerateResource.Cache
+E:\LearningPrj\GUIDesign\BenNHControl\obj\Debug\BenNHForm.dll
+E:\LearningPrj\GUIDesign\BenNHControl\obj\Debug\BenNHForm.pdb
+C:\Users\JiYF\Desktop\GUIDesign\GUIDesign\BenNHControl\bin\Debug\BenNHForm.dll
+C:\Users\JiYF\Desktop\GUIDesign\GUIDesign\BenNHControl\bin\Debug\BenNHForm.pdb
+C:\Users\JiYF\Desktop\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHControl.ButtonEX.resources
+C:\Users\JiYF\Desktop\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHControl.FormEX.resources
+C:\Users\JiYF\Desktop\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHControl.MessageBoxEX.resources
+C:\Users\JiYF\Desktop\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHControl.Properties.Resources.resources
+C:\Users\JiYF\Desktop\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHControl.csproj.GenerateResource.cache
+C:\Users\JiYF\Desktop\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHControl.csproj.CoreCompileInputs.cache
+C:\Users\JiYF\Desktop\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHForm.dll
+C:\Users\JiYF\Desktop\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHForm.pdb
+F:\WorkSpace\vs2013\Bluetooth_five\GUIDesign\GUIDesign\BenNHControl\bin\Debug\BenNHForm.dll
+F:\WorkSpace\vs2013\Bluetooth_five\GUIDesign\GUIDesign\BenNHControl\bin\Debug\BenNHForm.pdb
+F:\WorkSpace\vs2013\Bluetooth_five\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHControl.ButtonEX.resources
+F:\WorkSpace\vs2013\Bluetooth_five\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHControl.FormEX.resources
+F:\WorkSpace\vs2013\Bluetooth_five\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHControl.MessageBoxEX.resources
+F:\WorkSpace\vs2013\Bluetooth_five\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHControl.Properties.Resources.resources
+F:\WorkSpace\vs2013\Bluetooth_five\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHControl.csproj.GenerateResource.Cache
+F:\WorkSpace\vs2013\Bluetooth_five\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHForm.dll
+F:\WorkSpace\vs2013\Bluetooth_five\GUIDesign\GUIDesign\BenNHControl\obj\Debug\BenNHForm.pdb
+F:\WorkSpace\vs2013\GUIDesign\BenNHControl\bin\Debug\BenNHForm.dll
+F:\WorkSpace\vs2013\GUIDesign\BenNHControl\bin\Debug\BenNHForm.pdb
+F:\WorkSpace\vs2013\GUIDesign\BenNHControl\obj\Debug\BenNHControl.csprojResolveAssemblyReference.cache
+F:\WorkSpace\vs2013\GUIDesign\BenNHControl\obj\Debug\BenNHControl.ButtonEX.resources
+F:\WorkSpace\vs2013\GUIDesign\BenNHControl\obj\Debug\BenNHControl.FormEX.resources
+F:\WorkSpace\vs2013\GUIDesign\BenNHControl\obj\Debug\BenNHControl.MessageBoxEX.resources
+F:\WorkSpace\vs2013\GUIDesign\BenNHControl\obj\Debug\BenNHControl.Properties.Resources.resources
+F:\WorkSpace\vs2013\GUIDesign\BenNHControl\obj\Debug\BenNHControl.Toast.resources
+F:\WorkSpace\vs2013\GUIDesign\BenNHControl\obj\Debug\BenNHControl.csproj.GenerateResource.Cache
+F:\WorkSpace\vs2013\GUIDesign\BenNHControl\obj\Debug\BenNHForm.dll
+F:\WorkSpace\vs2013\GUIDesign\BenNHControl\obj\Debug\BenNHForm.pdb
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\bin\Debug\BenNHForm.dll
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\bin\Debug\BenNHForm.pdb
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\obj\Debug\BenNHControl.ButtonEX.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\obj\Debug\BenNHControl.FormEX.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\obj\Debug\BenNHControl.MessageBoxEX.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\obj\Debug\BenNHControl.OverridFormEX.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\obj\Debug\BenNHControl.Properties.Resources.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\obj\Debug\BenNHControl.Toast.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\obj\Debug\BenNHControl.MyFormEX.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\obj\Debug\BenNHControl.csproj.GenerateResource.Cache
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\obj\Debug\BenNHForm.dll.licenses
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\obj\Debug\BenNHForm.dll
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\obj\Debug\BenNHForm.pdb
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\BenNHControl\obj\Debug\BenNHControl.csprojResolveAssemblyReference.cache
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\bin\Debug\BenNHForm.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\bin\Debug\BenNHForm.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\obj\Debug\BenNHControl.ButtonEX.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\obj\Debug\BenNHControl.FormEX.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\obj\Debug\BenNHControl.MessageBoxEX.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\obj\Debug\BenNHControl.OverridFormEX.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\obj\Debug\BenNHControl.Properties.Resources.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\obj\Debug\BenNHControl.Toast.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\obj\Debug\BenNHControl.MyFormEX.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\obj\Debug\BenNHControl.csproj.GenerateResource.Cache
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\obj\Debug\BenNHForm.dll.licenses
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\obj\Debug\BenNHForm.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\obj\Debug\BenNHForm.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS\BenNHControl\obj\Debug\BenNHControl.csprojResolveAssemblyReference.cache
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\Config\Skin\bg\bg01.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\Config\Skin\bg\bg02.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\Config\Skin\bg\bg03.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\Config\Skin\bg\bg04.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\Config\Skin\bg\bg05.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\Config\Skin\bg\bg06.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\Config\Skin.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\Config\Skin\NoFlower.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\Config\Skin\BlueSea.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\Config\Skin\SunsetRed.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\Config\Skin\KissOfAngel.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\Properties\AssemblyInfo.cs
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\Config\Skin.ini
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\BenNHForm.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\BenNHForm.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\TX.Framework.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\TX.Framework.WindowUI.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\bin\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\obj\Debug\BenNHControl.csprojResolveAssemblyReference.cache
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\obj\Debug\BenNHControl.ButtonEX.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\obj\Debug\BenNHControl.FormEX.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\obj\Debug\BenNHControl.MessageBoxEX.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\obj\Debug\BenNHControl.OverridFormEX.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\obj\Debug\BenNHControl.Properties.Resources.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\obj\Debug\BenNHControl.RulerControl.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\obj\Debug\BenNHControl.Toast.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\obj\Debug\BenNHControl.MyFormEX.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\obj\Debug\BenNHControl.csproj.GenerateResource.Cache
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\obj\Debug\BenNHForm.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\BenNHControl\obj\Debug\BenNHForm.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\Config\Skin\bg\bg01.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\Config\Skin\bg\bg02.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\Config\Skin\bg\bg03.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\Config\Skin\bg\bg04.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\Config\Skin\bg\bg05.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\Config\Skin\bg\bg06.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\Config\Skin.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\Config\Skin\NoFlower.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\Config\Skin\BlueSea.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\Config\Skin\SunsetRed.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\Config\Skin\KissOfAngel.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\Properties\AssemblyInfo.cs
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\Config\Skin.ini
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\BenNHForm.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\BenNHForm.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\TX.Framework.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\TX.Framework.WindowUI.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\bin\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\obj\Debug\BenNHControl.csprojResolveAssemblyReference.cache
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\obj\Debug\BenNHControl.ButtonEX.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\obj\Debug\BenNHControl.FormEX.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\obj\Debug\BenNHControl.MessageBoxEX.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\obj\Debug\BenNHControl.OverridFormEX.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\obj\Debug\BenNHControl.Properties.Resources.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\obj\Debug\BenNHControl.RulerControl.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\obj\Debug\BenNHControl.Toast.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\obj\Debug\BenNHControl.MyFormEX.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\obj\Debug\BenNHControl.csproj.GenerateResource.Cache
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\obj\Debug\BenNHForm.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\BenNHControl\obj\Debug\BenNHForm.pdb

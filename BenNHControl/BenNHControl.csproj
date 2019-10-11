@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{8D4E9176-79A8-4F7F-9EFE-18E379B73D3F}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>BenNHControl</RootNamespace>
+    <AssemblyName>BenNHForm</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>AnyCPU</PlatformTarget>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <Prefer32Bit>false</Prefer32Bit>
+    <PlatformTarget>x64</PlatformTarget>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DevExpress.Data.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Printing.v15.2.Core, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraEditors.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.Office.Interop.Excel, Version=12.0.0.0, Culture=neutral, PublicKeyToken=71e9bce111e9429c">
+      <SpecificVersion>False</SpecificVersion>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+      <HintPath>..\TX.Framework.WindowUI\Lib\Microsoft.Office.Interop.Excel.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Remoting" />
+    <Reference Include="System.ServiceModel" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TX.Framework">
+      <HintPath>..\TX.Framework.WindowUI\Lib\TX.Framework.dll</HintPath>
+    </Reference>
+    <Reference Include="UIAutomationClient" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="ButtonEX.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="ButtonEX.Designer.cs">
+      <DependentUpon>ButtonEX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FormAnimtor.cs" />
+    <Compile Include="FormEX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FormEX.Designer.cs">
+      <DependentUpon>FormEX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FoucButton.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="FoucButton.Designer.cs">
+      <DependentUpon>FoucButton.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MessageBoxEX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MessageBoxEX.Designer.cs">
+      <DependentUpon>MessageBoxEX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="OverridFormEX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="OverridFormEX.Designer.cs">
+      <DependentUpon>OverridFormEX.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PicHelper.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="RulerControl.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="RulerControl.Designer.cs">
+      <DependentUpon>RulerControl.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Toast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Toast.Designer.cs">
+      <DependentUpon>Toast.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UcLabel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="UcLabel.Designer.cs">
+      <DependentUpon>UcLabel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="User\MyFormEX.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="User\MyFormEX.Designer.cs">
+      <DependentUpon>MyFormEX.cs</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="ButtonEX.resx">
+      <DependentUpon>ButtonEX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FormEX.resx">
+      <DependentUpon>FormEX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MessageBoxEX.resx">
+      <DependentUpon>MessageBoxEX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="OverridFormEX.resx">
+      <DependentUpon>OverridFormEX.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="RulerControl.resx">
+      <DependentUpon>RulerControl.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Toast.resx">
+      <DependentUpon>Toast.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="User\MyFormEX.resx">
+      <DependentUpon>MyFormEX.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Max.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MaxNormal.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Min.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\VSLogo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Close.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\TX.Framework.WindowUI\TX.Framework.WindowUI.csproj">
+      <Project>{E8746B10-EAAF-44B7-95CC-29E4C42EC8D5}</Project>
+      <Name>TX.Framework.WindowUI</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

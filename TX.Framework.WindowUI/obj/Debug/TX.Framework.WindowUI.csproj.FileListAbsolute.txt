@@ -1,0 +1,350 @@
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg01.jpg
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg02.jpg
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg03.jpg
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg04.jpg
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg05.jpg
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg06.jpg
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Config\Skin.config
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Config\Skin\NoFlower.config
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Config\Skin\BlueSea.config
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Config\Skin\SunsetRed.config
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Config\Skin\KissOfAngel.config
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Config\Skin.ini
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\TX.Framework.WindowUI.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\TX.Framework.WindowUI.pdb
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\ResolveAssemblyReference.cache
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Docking.Resources.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Docking.Strings.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TemplateListView.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.ThumbnailView.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeListView.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmAddImage.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmPreview.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmSourceCode.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXHtmlEditor.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXPager.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Panel.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.XPanderPanel.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.XPanderPanelList.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXTextBox.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXToolBar.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.BaseForm.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.frmErrorBox.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.FormInfoListEntity.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.FormListEntity.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.frmSkinManager.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.TXMessageBox.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.TXWaitingBox.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Properties.Resources.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\GenerateResource.read.1.tlog
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\GenerateResource.write.1.tlog
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.pdb
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeComboBox.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeComboBoxContainer.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\TX.Framework.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\EntityFramework.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Spring.Core.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\NVelocity.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\log4net.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Common.Logging.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.Unity.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.Unity.Configuration.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.Unity.Interception.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\TX.Framework.pdb
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\TX.Framework.xml
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\EntityFramework.xml
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Spring.Core.xml
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\NVelocity.xml
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Caching.xml
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Validation.xml
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\log4net.xml
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.xml
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.Unity.xml
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.Unity.Configuration.xml
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\Microsoft.Practices.Unity.Interception.xml
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\GMap.NET.Core.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\GMap.NET.WindowsForms.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\System.Data.SQLite.dll
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\GMap.NET.Core.pdb
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\bin\Debug\GMap.NET.WindowsForms.pdb
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.AlignControl.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.ImageListPanel.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.MonthCalendar.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXRangeValue.resources
+D:\TFS_Project\TX\Framework\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.PopForm.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeComboBoxContainer.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.AlignControl.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.ImageListPanel.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.MonthCalendar.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXRangeValue.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeComboBox.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.PopForm.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Docking.Resources.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Docking.Strings.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TemplateListView.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.ThumbnailView.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeListView.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmAddImage.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmPreview.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmSourceCode.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXHtmlEditor.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXPager.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Panel.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.XPanderPanel.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.XPanderPanelList.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXTextBox.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXToolBar.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.BaseForm.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.frmErrorBox.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.FormInfoListEntity.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.FormListEntity.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.frmSkinManager.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.TXMessageBox.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.TXWaitingBox.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Properties.Resources.resources
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.csproj.GenerateResource.Cache
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg01.jpg
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg02.jpg
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg03.jpg
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg04.jpg
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg05.jpg
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg06.jpg
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin.config
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\NoFlower.config
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\BlueSea.config
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\SunsetRed.config
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\KissOfAngel.config
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin.ini
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\TX.Framework.WindowUI.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\TX.Framework.WindowUI.pdb
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\TX.Framework.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Microsoft.Vbe.Interop.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Microsoft.Office.Interop.Excel.xml
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.dll
+D:\Project files\Program project\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg01.jpg
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg02.jpg
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg03.jpg
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg04.jpg
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg05.jpg
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg06.jpg
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin.config
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\NoFlower.config
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\BlueSea.config
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\SunsetRed.config
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin\KissOfAngel.config
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Config\Skin.ini
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\TX.Framework.WindowUI.dll
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\GMap.NET.Core.dll
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\GMap.NET.WindowsForms.dll
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\TX.Framework.dll
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\bin\Debug\System.Data.SQLite.dll
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.MyFormListEntity.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.MyfrmSkinManager.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeComboBoxContainer.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.AlignControl.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.ImageListPanel.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.MonthCalendar.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXRangeValue.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeComboBox.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.PopForm.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Docking.Resources.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Docking.Strings.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TemplateListView.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.ThumbnailView.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeListView.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmAddImage.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmPreview.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmSourceCode.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXHtmlEditor.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXPager.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Panel.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.XPanderPanel.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.XPanderPanelList.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXTextBox.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXToolBar.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.BaseForm.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.frmErrorBox.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.FormInfoListEntity.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.FormListEntity.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.frmSkinManager.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.TXMessageBox.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.TXWaitingBox.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Properties.Resources.resources
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.csproj.GenerateResource.Cache
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.dll
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\git\winform\winform.controls\TTX.Framework.WindowUI\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.csprojResolveAssemblyReference.cache
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg01.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg02.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg03.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg04.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg05.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg06.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\Config\Skin.config
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\Config\Skin\NoFlower.config
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\Config\Skin\BlueSea.config
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\Config\Skin\SunsetRed.config
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\Config\Skin\KissOfAngel.config
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\Config\Skin.ini
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\TX.Framework.WindowUI.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\GMap.NET.Core.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\GMap.NET.WindowsForms.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\TX.Framework.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\bin\Debug\System.Data.SQLite.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.MyFormListEntity.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.MyfrmSkinManager.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeComboBoxContainer.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.AlignControl.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.ImageListPanel.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.MonthCalendar.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXRangeValue.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeComboBox.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.PopForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Docking.Resources.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Docking.Strings.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TemplateListView.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.ThumbnailView.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeListView.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmAddImage.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmPreview.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmSourceCode.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXHtmlEditor.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXPager.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Panel.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.XPanderPanel.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.XPanderPanelList.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXTextBox.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXToolBar.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.BaseForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.frmErrorBox.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.FormInfoListEntity.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.FormListEntity.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.frmSkinManager.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.TXMessageBox.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.TXWaitingBox.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Properties.Resources.resources
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.csproj.GenerateResource.Cache
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.dll
+F:\WorkSpace\vs2013\Monitor_HCCS\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg01.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg02.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg03.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg04.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg05.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg06.jpg
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\Config\Skin.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\Config\Skin\NoFlower.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\Config\Skin\BlueSea.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\Config\Skin\SunsetRed.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\Config\Skin\KissOfAngel.config
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\Config\Skin.ini
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\TX.Framework.WindowUI.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\GMap.NET.Core.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\GMap.NET.WindowsForms.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\TX.Framework.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\bin\Debug\System.Data.SQLite.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.csprojResolveAssemblyReference.cache
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.MyFormListEntity.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.MyfrmSkinManager.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeComboBoxContainer.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.AlignControl.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.ImageListPanel.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.MonthCalendar.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXRangeValue.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeComboBox.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.PopForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Docking.Resources.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Docking.Strings.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TemplateListView.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.ThumbnailView.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeListView.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmAddImage.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmPreview.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmSourceCode.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXHtmlEditor.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXPager.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Panel.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.XPanderPanel.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.XPanderPanelList.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXTextBox.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXToolBar.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.BaseForm.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.frmErrorBox.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.FormInfoListEntity.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.FormListEntity.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.frmSkinManager.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.TXMessageBox.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.TXWaitingBox.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Properties.Resources.resources
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.csproj.GenerateResource.Cache
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.dll
+F:\WorkSpace\vs2013\Monitor_HCCS - 副本 (2)\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg01.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg02.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg03.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg04.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg05.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\Config\Skin\bg\bg06.jpg
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\Config\Skin.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\Config\Skin\NoFlower.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\Config\Skin\BlueSea.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\Config\Skin\SunsetRed.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\Config\Skin\KissOfAngel.config
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\Config\Skin.ini
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\TX.Framework.WindowUI.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\GMap.NET.Core.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\GMap.NET.WindowsForms.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\Microsoft.Office.Interop.Excel.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\TX.Framework.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\bin\Debug\System.Data.SQLite.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.MyFormListEntity.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.MyfrmSkinManager.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeComboBoxContainer.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.AlignControl.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.ImageListPanel.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.MonthCalendar.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXRangeValue.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeComboBox.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.PopForm.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Docking.Resources.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Docking.Strings.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TemplateListView.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.ThumbnailView.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TreeListView.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmAddImage.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmPreview.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.frmSourceCode.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXHtmlEditor.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXPager.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.Panel.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.XPanderPanel.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.XPanderPanelList.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXTextBox.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Controls.TXToolBar.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.BaseForm.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.frmErrorBox.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.FormInfoListEntity.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.FormListEntity.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.frmSkinManager.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.TXMessageBox.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Forms.TXWaitingBox.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.Properties.Resources.resources
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.csproj.GenerateResource.Cache
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.dll
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.pdb
+F:\WorkSpace\copy\Monitor_HCCS - 十寸屏版本\TX.Framework.WindowUI\obj\Debug\TX.Framework.WindowUI.csprojResolveAssemblyReference.cache

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Project ToolsVersion="3.5" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<PropertyGroup>
+		<!-- Select a Product Configuration -->
+		<InstallShieldProductConfiguration>Express</InstallShieldProductConfiguration>
+		<!-- Select a Visual Studio Configuration / InstallShield Release -->
+		<Configuration>Debug</Configuration>
+		<InstallShieldRelease>$(Configuration)</InstallShieldRelease>
+	</PropertyGroup>
+	<ItemGroup>
+		<!-- The InstallShieldProject item selects the project to build -->
+		<InstallShieldProject Include="$(MSBuildProjectDirectory)\$(MSBuildProjectName).isl"/>
+		<!-- The InstallShieldReleaseFlags sets Release Flags -->
+		<!--<InstallShieldReleaseFlags Include=""/>-->
+		<!-- The InstallShieldMergeModulePath specifies what directories are
+		searched for Merge Modules -->
+		<!--<InstallShieldMergeModulePath Include=""/>-->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The ProjectReference items refer to any Visual Studio solutions you want to automatically probe for Project Output Groups.  -->
+	</ItemGroup>
+	<ItemGroup>
+		<!-- The TaggedOutputs items allow you to explicitly add extra files to output groups. Each item must include both Name and OutputGroup, as well as TargetPath metadata values. -->
+		<!--<TaggedOutputs Include="C:\My Test Exe.exe">
+			<Name>My Test Project</Name>
+			<OutputGroup>Primary output</OutputGroup>
+			<TargetPath>My Test Exe.exe</TargetPath>
+		</TaggedOutputs> -->
+	</ItemGroup>
+	<Import Project="$(MSBuildExtensionsPath32)\InstallShield\2015Limited\InstallShield.targets"/>
+	<ItemGroup>
+		<ProjectReference Include="..\BenNHControl\BenNHControl.csproj">
+			<Name>BenNHControl</Name>
+			<Project>{8D4E9176-79A8-4F7F-9EFE-18E379B73D3F}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Monitor_HCCS\Monitor_HCCS.csproj">
+			<Name>Monitor_HCCS</Name>
+			<Project>{5DFB0F73-D5A0-463D-9225-0D683D9ACCF7}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\TX.Framework.WindowUI\TX.Framework.WindowUI.csproj">
+			<Name>TX.Framework.WindowUI</Name>
+			<Project>{E8746B10-EAAF-44B7-95CC-29E4C42EC8D5}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\ToastNotifications\ToastNotifications.csproj">
+			<Name>ToastNotifications</Name>
+			<Project>{380D8D88-386C-4C50-9A54-800F79FDF7D2}</Project>
+		</ProjectReference>
+		<ProjectReference Include="..\Wifi\WifiTool.csproj">
+			<Name>WifiTool</Name>
+			<Project>{59DA0A5E-DA94-48CC-990B-DEF10F9416AB}</Project>
+		</ProjectReference>
+	</ItemGroup>
+</Project>

@@ -1,0 +1,7 @@
+E:\LearningPrj\BenNHForm\BenNHForm\bin\Debug\BenNHForm.dll
+E:\LearningPrj\BenNHForm\BenNHForm\bin\Debug\BenNHForm.pdb
+E:\LearningPrj\BenNHForm\BenNHForm\obj\Debug\BenNHForm.MessageBoxEX.resources
+E:\LearningPrj\BenNHForm\BenNHForm\obj\Debug\BenNHForm.csproj.GenerateResource.Cache
+E:\LearningPrj\BenNHForm\BenNHForm\obj\Debug\BenNHForm.dll
+E:\LearningPrj\BenNHForm\BenNHForm\obj\Debug\BenNHForm.pdb
+E:\LearningPrj\BenNHForm\BenNHForm\obj\Debug\BenNHForm.csprojResolveAssemblyReference.cache
